@@ -35,3 +35,4 @@ Here's an example:
 
 Close your application completely and turn on airplane mode. When you re-open it and run the above, your data will
 still log out because it has been persisted through localStorage.
+
